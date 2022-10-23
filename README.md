@@ -8,8 +8,10 @@
     And i have interested in learn later NodeJS, PhP, MySql, React and React Native, an continue my journey, maybe in some Tech company.
 </p>
 
-💬 - You can find me on me Instagram, LinkeIn or Twitter, and my email link down here.
-I am very grateful to have the opportunity to start being part of this amazing world. 
+<p>
+    💬 - You can find me on me Instagram or LinkeIn, and my email link down here too.
+    I am very grateful to have the opportunity to start being part of this amazing world. 
+</p>
 
 <div align="center">
   <a href="https://github.com/MarceloSe">
