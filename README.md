@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1>Hi everyone 👋</h1>
  
 <h2>My name is Marcelo Sena</h2>
@@ -13,10 +15,9 @@
     I am very grateful to have the opportunity to start being part of this amazing world. 
 </p>
 
-<div align="center">
-  <a href="https://github.com/MarceloSe">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=marcelose&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelose&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarceloSe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSe&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -46,3 +47,10 @@
   ![Snake animation](https://github.com/marcelose/marcelose/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarceloSe}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
